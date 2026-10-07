@@ -1,0 +1,397 @@
+{
+ "about-family": {
+  "src": "/images/about-family.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "artichoke-a": {
+  "src": "/images/artichoke-a.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "artichoke-b": {
+  "src": "/images/artichoke-b.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "artichoke-c": {
+  "src": "/images/artichoke-c.jpg",
+  "width": 900,
+  "height": 779
+ },
+ "atm-entrance": {
+  "src": "/images/atm-entrance.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "atm-front": {
+  "src": "/images/atm-front.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "bar-apple": {
+  "src": "/images/bar-apple.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "bar-beer": {
+  "src": "/images/bar-beer.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "bar-choc": {
+  "src": "/images/bar-choc.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "bar-citrus": {
+  "src": "/images/bar-citrus.jpg",
+  "width": 900,
+  "height": 1599
+ },
+ "bar-drinks": {
+  "src": "/images/bar-drinks.jpg",
+  "width": 1000,
+  "height": 992
+ },
+ "bar-four": {
+  "src": "/images/bar-four.jpg",
+  "width": 900,
+  "height": 1599
+ },
+ "bar-table": {
+  "src": "/images/bar-table.jpg",
+  "width": 900,
+  "height": 1453
+ },
+ "bar-trio-a": {
+  "src": "/images/bar-trio-a.jpg",
+  "width": 900,
+  "height": 1233
+ },
+ "bar-trio-b": {
+  "src": "/images/bar-trio-b.jpg",
+  "width": 900,
+  "height": 1307
+ },
+ "bar-trio-c": {
+  "src": "/images/bar-trio-c.jpg",
+  "width": 900,
+  "height": 1310
+ },
+ "cat-antipasto": {
+  "src": "/images/cat-antipasto.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "cat-chicken": {
+  "src": "/images/cat-chicken.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "cat-pizza": {
+  "src": "/images/cat-pizza.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "cat-rollatini": {
+  "src": "/images/cat-rollatini.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "cat-room-a": {
+  "src": "/images/cat-room-a.jpg",
+  "width": 900,
+  "height": 1198
+ },
+ "cat-room-b": {
+  "src": "/images/cat-room-b.jpg",
+  "width": 900,
+  "height": 1195
+ },
+ "cat-salad": {
+  "src": "/images/cat-salad.jpg",
+  "width": 900,
+  "height": 1016
+ },
+ "desserts": {
+  "src": "/images/desserts.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "drink-blue": {
+  "src": "/images/drink-blue.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "drink-green": {
+  "src": "/images/drink-green.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "drink-red": {
+  "src": "/images/drink-red.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "event-room": {
+  "src": "/images/event-room.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "focaccia-a": {
+  "src": "/images/focaccia-a.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "focaccia-b": {
+  "src": "/images/focaccia-b.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-caprese": {
+  "src": "/images/g-caprese.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-lamb": {
+  "src": "/images/g-lamb.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-lobster": {
+  "src": "/images/g-lobster.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "g-lobster2": {
+  "src": "/images/g-lobster2.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-ossobuco": {
+  "src": "/images/g-ossobuco.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-pizza": {
+  "src": "/images/g-pizza.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "g-ravioli": {
+  "src": "/images/g-ravioli.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "g-salmon": {
+  "src": "/images/g-salmon.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "g-sangria": {
+  "src": "/images/g-sangria.jpg",
+  "width": 900,
+  "height": 1127
+ },
+ "g-seafood-pasta": {
+  "src": "/images/g-seafood-pasta.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "g-seafood-platter": {
+  "src": "/images/g-seafood-platter.jpg",
+  "width": 900,
+  "height": 904
+ },
+ "g-shrimp": {
+  "src": "/images/g-shrimp.jpg",
+  "width": 900,
+  "height": 944
+ },
+ "gf-pizza": {
+  "src": "/images/gf-pizza.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "gnocchi": {
+  "src": "/images/gnocchi.jpg",
+  "width": 1000,
+  "height": 750
+ },
+ "hero-bar": {
+  "src": "/images/hero-bar.jpg",
+  "width": 1536,
+  "height": 2048
+ },
+ "hero-dining": {
+  "src": "/images/hero-dining.jpg",
+  "width": 1536,
+  "height": 2048
+ },
+ "hero-lobster": {
+  "src": "/images/hero-lobster.jpg",
+  "width": 1536,
+  "height": 1152
+ },
+ "hero-mural": {
+  "src": "/images/hero-mural.jpg",
+  "width": 1536,
+  "height": 2048
+ },
+ "hero-pasta": {
+  "src": "/images/hero-pasta.jpg",
+  "width": 1536,
+  "height": 1152
+ },
+ "hero-pizza": {
+  "src": "/images/hero-pizza.jpg",
+  "width": 1536,
+  "height": 2048
+ },
+ "hero-rigatoni": {
+  "src": "/images/hero-rigatoni.jpg",
+  "width": 1440,
+  "height": 1795
+ },
+ "hero-room": {
+  "src": "/images/hero-room.jpg",
+  "width": 1536,
+  "height": 2048
+ },
+ "hero-seafood": {
+  "src": "/images/hero-seafood.jpg",
+  "width": 1025,
+  "height": 986
+ },
+ "logo-512": {
+  "src": "/images/logo-512.png",
+  "width": 512,
+  "height": 512
+ },
+ "logo-dark": {
+  "src": "/images/logo-dark.png",
+  "width": 640,
+  "height": 640
+ },
+ "menu-lobster": {
+  "src": "/images/menu-lobster.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "menu-pizza": {
+  "src": "/images/menu-pizza.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "menu-ravioli": {
+  "src": "/images/menu-ravioli.jpg",
+  "width": 900,
+  "height": 675
+ },
+ "menu-rigatoni": {
+  "src": "/images/menu-rigatoni.jpg",
+  "width": 900,
+  "height": 556
+ },
+ "owners-boss": {
+  "src": "/images/owners-boss.jpg",
+  "width": 1000,
+  "height": 1338
+ },
+ "owners": {
+  "src": "/images/owners.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "pasta-beans": {
+  "src": "/images/pasta-beans.jpg",
+  "width": 1000,
+  "height": 750
+ },
+ "sicilian-a": {
+  "src": "/images/sicilian-a.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "sicilian-b": {
+  "src": "/images/sicilian-b.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "special-drinks": {
+  "src": "/images/special-drinks.jpg",
+  "width": 800,
+  "height": 1006
+ },
+ "special-gelato": {
+  "src": "/images/special-gelato.jpg",
+  "width": 800,
+  "height": 1333
+ },
+ "sweet-cannoli": {
+  "src": "/images/sweet-cannoli.jpg",
+  "width": 900,
+  "height": 754
+ },
+ "sweet-mousse": {
+  "src": "/images/sweet-mousse.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "sweet-pastry": {
+  "src": "/images/sweet-pastry.jpg",
+  "width": 900,
+  "height": 1200
+ },
+ "sweet-strawberry": {
+  "src": "/images/sweet-strawberry.jpg",
+  "width": 900,
+  "height": 474
+ },
+ "team": {
+  "src": "/images/team.jpg",
+  "width": 1100,
+  "height": 1059
+ },
+ "up-long": {
+  "src": "/images/up-long.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "up-long2": {
+  "src": "/images/up-long2.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "up-party-a": {
+  "src": "/images/up-party-a.jpg",
+  "width": 768,
+  "height": 1024
+ },
+ "up-party-b": {
+  "src": "/images/up-party-b.jpg",
+  "width": 768,
+  "height": 1024
+ },
+ "up-rounds": {
+  "src": "/images/up-rounds.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "up-sunflower": {
+  "src": "/images/up-sunflower.jpg",
+  "width": 1000,
+  "height": 1333
+ },
+ "upstairs-a": {
+  "src": "/images/upstairs-a.jpg",
+  "width": 1100,
+  "height": 1433
+ },
+ "upstairs-b": {
+  "src": "/images/upstairs-b.jpg",
+  "width": 1000,
+  "height": 1333
+ }
+}
