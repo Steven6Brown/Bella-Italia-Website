@@ -8,3 +8,7 @@ out
 .DS_Store
 *.log
 next-env.d.ts
+
+# tool-generated notes files, never tracked
+CLAUDE.md
+AGENTS.md

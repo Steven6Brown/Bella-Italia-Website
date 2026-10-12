@@ -29,6 +29,7 @@ const securityHeaders = [
 const nextConfig = {
   turbopack: { root: import.meta.dirname },
   poweredByHeader: false,
+  agentRules: false, // stops the dev server from generating AGENTS.md files in the project
   images: { formats: ["image/avif", "image/webp"] },
   async headers() {
     return [{ source: "/(.*)", headers: securityHeaders }];
