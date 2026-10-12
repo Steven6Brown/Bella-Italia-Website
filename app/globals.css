@@ -270,3 +270,5 @@ summary { scroll-margin-top: 90px; } details[id] { scroll-margin-top: 90px; }
 .form-status.err { color: #ff9d94; } .form-status.ok { color: #9be3a8; }
 .legal-doc h2 { font-size: 26px; margin: 32px 0 8px; } .legal-doc p, .legal-doc li { color: var(--cream-dim); margin-top: 10px; max-width: 68ch; } .legal-doc ul { padding-left: 22px; }
 .to-top { opacity: 0; }
+
+.numbered h2 { font-size: 21px; margin-bottom: 4px; }

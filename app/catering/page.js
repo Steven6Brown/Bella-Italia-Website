@@ -21,7 +21,7 @@ export default function CateringPage() {
       <PageTitle eyebrow="Catering and events" title="Catering and a private upstairs room" lede="Birthdays, family gatherings and business events, with the same care we bring to everyday meals." />
       <Section wrapClass="wrap two">
         <ol className="numbered">
-          {steps.map(([t, d]) => <li key={t}><div><h3>{t}</h3><p>{d}</p></div></li>)}
+          {steps.map(([t, d]) => <li key={t}><div><h2>{t}</h2><p>{d}</p></div></li>)}
         </ol>
         <Photo name="up-long" alt="The upstairs private room with a long run of round tables set with burgundy and cream napkins and sunflower centerpieces" sizes="(min-width: 900px) 50vw, 100vw" />
       </Section>
